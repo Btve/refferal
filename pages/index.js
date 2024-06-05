@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   const router = useRouter();
   React.useEffect(() => {
-    router.push("https://onlyfans.com/cherry-xx")
+    router.push("https://onlyfans.com/thebiancabunny")
   })
   return (
     <>
